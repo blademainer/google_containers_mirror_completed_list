@@ -1,0 +1,7 @@
+.idea
+*.iml
+*.tmp
+*.tar.gz
+client-secret.json
+api_key.py
+*.json
